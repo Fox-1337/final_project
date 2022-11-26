@@ -3,7 +3,7 @@ package xyz.fox.white.final_project;
 import android.app.Activity;
 import android.os.Bundle;
 
-import android.util.Log;
+import android.util.Log; //Test
 import android.widget.TextView;
 
 import com.google.firebase.database.DataSnapshot;
