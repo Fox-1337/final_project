@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801821856782",
+    "firebase_url": "https://white-fox-xyz-default-rtdb.firebaseio.com",
+    "project_id": "white-fox-xyz",
+    "storage_bucket": "white-fox-xyz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801821856782:android:85d7faa98d372b658a185f",
+        "android_client_info": {
+          "package_name": "xyz.fox.white.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801821856782-50vejqt3ihmt4s5rbvlrmta7fkapmsdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8r3bpu92k_gJyIsS2bEY9fzgBJscI7oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801821856782-50vejqt3ihmt4s5rbvlrmta7fkapmsdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
